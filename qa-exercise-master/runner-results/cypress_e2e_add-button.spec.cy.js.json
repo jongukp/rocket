@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 3,
+  "passes": 3,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-06-14T14:35:22.192Z",
+  "duration": 19358,
+  "file": "cypress/e2e/add-button.spec.cy.js"
+}
