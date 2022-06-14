@@ -8,12 +8,6 @@ This tiny application have a few features including:
 - a footer with a button to add boxes and a separate button to remove boxes
 - an area where we can see boxes with numbers in them show up on the screen
 
-### Known Issues
-
-1. Unfortunately, the developers didn't plan effectively for users clicking the `Remove Box` button if there aren't any boxes present. What tests could we add for this?
-2. Users can only add up to 20 boxes. What tests could we run to ensure this is true?
-3. The last QA Engineer left a test broken. Could you fix it?
-
 ## Steps
 
 1. Ensure you have Google Chrome installed. Otherwise, you'll need to reconfigure Cypress to work with your browser of choice.
