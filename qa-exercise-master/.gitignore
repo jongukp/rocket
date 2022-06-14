@@ -13,6 +13,8 @@
 
 /cypress/videos/*
 /cypress/parallel-weights.json
+.idea
+runner-results
 
 # misc
 .DS_Store
